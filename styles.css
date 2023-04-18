@@ -3,6 +3,12 @@
   padding: 0;
 }
 
+.logo {
+  position: relative;
+  width: 30%;
+  height: 30%;
+}
+
 .container {
   position: relative;
   width: 100vw;
